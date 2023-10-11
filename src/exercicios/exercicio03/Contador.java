@@ -7,6 +7,5 @@ public class Contador {
     }
     String[] palavras = frase.split(" ");
     return palavras.length;
-
   }
 }
